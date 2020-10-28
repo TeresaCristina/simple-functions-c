@@ -15,6 +15,8 @@ Do not pass this as your work! Part of the joy of learning it to understand how 
 ## Summary
 
 [csv](https://github.com/TeresaCristina/simple-functions-c/tree/master/csv_operations)
+[working with numbers](https://github.com/TeresaCristina/simple-functions-c/tree/master/checkNumb)
+[operations with vector](https://github.com/TeresaCristina/simple-functions-c/tree/master/vectors)
 
 ## Contact
 
